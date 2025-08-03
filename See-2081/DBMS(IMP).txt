@@ -1,4 +1,4 @@
---------------DBMS IMPORTANT QNS FOR SEE-2081-------------------
+--------------DBMS IMPORTANT QNS FOR SEE--------------------
 1.Illustrate attributes, explain its type.
 2.Explain mapping cardinalities
 3.Discuss and experiment keys in DBMS

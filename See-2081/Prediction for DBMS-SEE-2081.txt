@@ -1,7 +1,0 @@
-My Prediction for DBMS-SEE-2081:
-
-1.State of Transaction
-2.Functional Dependency
-3.Keys in DBMS
-4.Types of SQL,SQL views
-
